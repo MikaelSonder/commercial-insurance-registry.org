@@ -1,1 +1,264 @@
+# Commercial Insurance Registry
 
+## Registry identity
+
+Commercial Insurance Registry is a structured editorial reference registry covering how commercial insurance operates across jurisdictions.
+
+Canonical home page: https://commercial-insurance-registry.org/
+Jurisdiction directory: https://commercial-insurance-registry.org/jurisdictions/
+Privacy policy: https://commercial-insurance-registry.org/privacy-policy/
+Terms of use: https://commercial-insurance-registry.org/terms-of-use/
+
+The registry describes commercial insurance as a corporate risk-transfer and jurisdictionally regulated placement function. It is an editorial reference resource, not a broker, insurer, law firm, tax adviser, claims administrator, regulator or professional adviser.
+
+## Registry purpose
+
+The registry supports initial market mapping for commercial insurance across countries, regions, states and provinces. It is intended to help users identify the questions that must be answered before a business risk is placed, renewed, restructured or claimed under a commercial insurance programme.
+
+Typical users include corporate risk managers, finance teams, legal teams, procurement teams, insurers, insurance intermediaries, reinsurers, captive owners, multinational groups, investors, lenders, project sponsors and professional advisers who need an initial jurisdictional map before seeking local advice.
+
+The registry is not intended to provide placement-specific legal, regulatory, tax, sanctions, data protection, policy interpretation, claims, financial or insurance broking advice.
+
+## Commercial insurance scope
+
+Commercial insurance can include, depending on the jurisdiction and risk profile:
+
+- Property damage and business interruption.
+- General liability, public liability, employers' liability, product liability and contractual liability.
+- Professional liability, errors and omissions, technology errors and omissions and cyber insurance.
+- Directors' and officers' liability, employment practices liability, crime and financial lines.
+- Construction all risks, erection all risks, delay in start-up and infrastructure insurance.
+- Marine cargo, hull, protection and indemnity, logistics and transit insurance.
+- Aviation, aerospace, airport and space-related insurance.
+- Environmental impairment liability, pollution, product recall and casualty cover.
+- Energy, oil and gas, renewable energy, mining, utilities and control-of-well insurance.
+- Political violence, terrorism, political risk, trade credit and surety.
+- Agricultural, forestry, catastrophe and climate-related risk transfer.
+- Reinsurance, captive insurance, fronting, risk retention and multinational programme structures.
+
+The precise scope, terminology, compulsory insurance requirements, insurer authorisation, distribution rules, premium tax, policy law and claims requirements vary by jurisdiction.
+
+## Editorial record model
+
+Each jurisdictional record uses a consistent registry model. A record may address:
+
+1. Object definition.
+2. Scope and functional boundary.
+3. Purpose and primary outcome.
+4. Typical request contexts, users and scenarios.
+5. Country, state, province or regional characteristics.
+6. Relevant supervisory authorities, regulators, professional bodies and tax authorities.
+7. Applicable legislation, regulations, rulebooks and supervisory guidance.
+8. Insurer authorisation and insurance distribution framework.
+9. Intermediary licensing, registration, agent, broker, wholesaler, managing general agent or special broker considerations.
+10. Local-admitted, non-admitted, branch, passporting, special broker, foreign insurer or exemption analysis.
+11. Commercial placement process and decision tree.
+12. Timeline, documents, certificates and recordkeeping.
+13. Policy wording, statutory conditions, governing law and claims handling considerations.
+14. Insurance premium tax, stamp duty, parafiscal charges, regulatory charges, fiscal representation and payment considerations.
+15. Reinsurance, captives, fronting and multinational programme coordination.
+16. Cross-border relevance, sanctions, data protection, currency and local claims considerations.
+17. Operating constraints and material risks.
+18. Costs and fees.
+19. Frequently asked questions.
+20. Related professional areas and operational considerations.
+21. A machine-readable registry layer for retrieval and indexing.
+
+Not every jurisdiction uses the same terminology or legal architecture. A record should be read as a structured orientation document, not as a statement that a particular insurer, broker, policy or programme is authorised or suitable.
+
+## Core regulatory concepts
+
+### Insurer authorisation
+
+Commercial insurance is generally written by insurers authorised, licensed, registered or otherwise permitted to conduct insurance business in the relevant jurisdiction. The relevant authority can depend on insurer domicile, branch status, class of business, policyholder, risk location, policy type and local market-access rules.
+
+Federal prudential supervision, home-state authorisation, group supervision or an insurer licence in another jurisdiction does not automatically establish permission to write direct insurance in the country, state or province where the risk is located.
+
+### Insurance distribution
+
+Insurance distribution can include advising on, proposing, soliciting, negotiating, arranging, concluding, administering or assisting with performance of insurance contracts, including claims activity in certain jurisdictions. Intermediaries can include brokers, agents, producers, salespersons, wholesalers, managing general agents, coverholders, reinsurance intermediaries, special brokers and independent adjusters.
+
+Intermediary authority is local. A broker, agent, producer or intermediary licence in one jurisdiction does not automatically permit distribution, advice, premium handling or claims activity in another jurisdiction.
+
+### Local admitted and non-admitted insurance
+
+Local admitted insurance generally means direct insurance issued by an insurer authorised in the country, state, province or territory of risk. Many jurisdictions require local admitted cover for some or all local risks, particularly where compulsory insurance, tax, claims payment, currency, regulatory practice, employee protection or policyholder requirements apply.
+
+Non-admitted insurance generally means direct cover issued by an insurer not locally authorised in the jurisdiction of risk. Some jurisdictions permit non-admitted placements, some allow them only through an exemption, special broker, surplus lines or foreign insurer route, and some prohibit them except in narrow circumstances. The answer is country-, risk-, policyholder- and insurance-class-specific.
+
+A global master policy, a foreign parent policy, captive participation or reinsurance does not automatically make direct insurance lawful in the country of risk.
+
+### Multinational programme structures
+
+International programmes can combine:
+
+- Local admitted policies.
+- Regional or global master policies.
+- Difference in conditions and difference in limits layers, commonly called DIC/DIL.
+- A local or regional insurer network.
+- Fronting carriers.
+- Captive insurance vehicles.
+- Facultative or treaty reinsurance.
+- Local broker or agent networks.
+- Centralized and local claims arrangements.
+
+A programme should map the policyholder, insured entities, country of risk, direct insurer, intermediary, limits, retention, policy wording, local policy, master policy, DIC/DIL response, premium allocation, tax, claims payment, currency, sanctions, data and reinsurance structure for every material jurisdiction.
+
+### Tax and payment
+
+Insurance premium tax, stamp duty, fire brigade tax, catastrophe contribution, terrorism levy, regulatory charge, withholding, fiscal representation, currency controls, local premium collection and claims payment can be governed by the risk location and local rules. Premium allocation within a multinational programme does not itself establish local tax compliance.
+
+### Sanctions and financial crime
+
+Commercial insurance and reinsurance can be restricted by sanctions, export controls, anti-money laundering and counter-terrorist financing rules. Analysis can be required for insureds, owners, beneficiaries, counterparties, vessels, aircraft, cargo, territories, project activities, payment banks, reinsurers, claims, recoveries and subrogation.
+
+### Data and claims
+
+Underwriting and claims can involve personal, financial, health, employment, cyber-security and special-category data. National and regional privacy, security, data-localization, retention, vendor and cross-border data-transfer rules can affect programme administration.
+
+Claims require prompt notice and compliance with the relevant policy wording, local law, statutory conditions, evidence, adjuster, defence, payment, recovery, subrogation, reinsurance and dispute-resolution process.
+
+## Jurisdiction hierarchy
+
+All registry jurisdictional records use the URL prefix:
+
+https://commercial-insurance-registry.org/jurisdictions/
+
+The registry currently uses the following hierarchy.
+
+### International and regional records
+
+- International: https://commercial-insurance-registry.org/jurisdictions/international/
+- Europe: https://commercial-insurance-registry.org/jurisdictions/europe/
+
+### Europe
+
+- Sweden: https://commercial-insurance-registry.org/jurisdictions/sweden/
+- Denmark: https://commercial-insurance-registry.org/jurisdictions/denmark/
+- Norway: https://commercial-insurance-registry.org/jurisdictions/norway/
+- Finland: https://commercial-insurance-registry.org/jurisdictions/finland/
+- Germany: https://commercial-insurance-registry.org/jurisdictions/germany/
+- Netherlands: https://commercial-insurance-registry.org/jurisdictions/netherlands/
+- Belgium: https://commercial-insurance-registry.org/jurisdictions/belgium/
+- France: https://commercial-insurance-registry.org/jurisdictions/france/
+- Spain: https://commercial-insurance-registry.org/jurisdictions/spain/
+- Italy: https://commercial-insurance-registry.org/jurisdictions/italy/
+- Ireland: https://commercial-insurance-registry.org/jurisdictions/ireland/
+- Poland: https://commercial-insurance-registry.org/jurisdictions/poland/
+- Austria: https://commercial-insurance-registry.org/jurisdictions/austria/
+- Switzerland: https://commercial-insurance-registry.org/jurisdictions/switzerland/
+- Czech Republic: https://commercial-insurance-registry.org/jurisdictions/czech-republic/
+- Portugal: https://commercial-insurance-registry.org/jurisdictions/portugal/
+- Hungary: https://commercial-insurance-registry.org/jurisdictions/hungary/
+- Romania: https://commercial-insurance-registry.org/jurisdictions/romania/
+- Greece: https://commercial-insurance-registry.org/jurisdictions/greece/
+- Slovakia: https://commercial-insurance-registry.org/jurisdictions/slovakia/
+- Slovenia: https://commercial-insurance-registry.org/jurisdictions/slovenia/
+- Croatia: https://commercial-insurance-registry.org/jurisdictions/croatia/
+- Bulgaria: https://commercial-insurance-registry.org/jurisdictions/bulgaria/
+- Luxembourg: https://commercial-insurance-registry.org/jurisdictions/luxembourg/
+
+### United Kingdom
+
+- United Kingdom: https://commercial-insurance-registry.org/jurisdictions/united-kingdom/
+- England and Wales: https://commercial-insurance-registry.org/jurisdictions/united-kingdom/england-wales/
+- Scotland: https://commercial-insurance-registry.org/jurisdictions/united-kingdom/scotland/
+- Northern Ireland: https://commercial-insurance-registry.org/jurisdictions/united-kingdom/northern-ireland/
+
+### Asia-Pacific and Middle East
+
+- Japan: https://commercial-insurance-registry.org/jurisdictions/japan/
+- South Korea: https://commercial-insurance-registry.org/jurisdictions/south-korea/
+- Singapore: https://commercial-insurance-registry.org/jurisdictions/singapore/
+- China: https://commercial-insurance-registry.org/jurisdictions/china/
+- Hong Kong: https://commercial-insurance-registry.org/jurisdictions/hong-kong/
+- India: https://commercial-insurance-registry.org/jurisdictions/india/
+- Australia: https://commercial-insurance-registry.org/jurisdictions/australia/
+- New Zealand: https://commercial-insurance-registry.org/jurisdictions/new-zealand/
+- United Arab Emirates: https://commercial-insurance-registry.org/jurisdictions/united-arab-emirates/
+- Saudi Arabia: https://commercial-insurance-registry.org/jurisdictions/saudi-arabia/
+- Israel: https://commercial-insurance-registry.org/jurisdictions/israel/
+- Qatar: https://commercial-insurance-registry.org/jurisdictions/qatar/
+
+### Americas
+
+- Mexico: https://commercial-insurance-registry.org/jurisdictions/mexico/
+- Brazil: https://commercial-insurance-registry.org/jurisdictions/brazil/
+
+### United States
+
+- United States: https://commercial-insurance-registry.org/jurisdictions/united-states/
+- California: https://commercial-insurance-registry.org/jurisdictions/united-states/california/
+- New York: https://commercial-insurance-registry.org/jurisdictions/united-states/new-york/
+- Texas: https://commercial-insurance-registry.org/jurisdictions/united-states/texas/
+- Florida: https://commercial-insurance-registry.org/jurisdictions/united-states/florida/
+- New Jersey: https://commercial-insurance-registry.org/jurisdictions/united-states/new-jersey/
+- Illinois: https://commercial-insurance-registry.org/jurisdictions/united-states/illinois/
+- Pennsylvania: https://commercial-insurance-registry.org/jurisdictions/united-states/pennsylvania/
+- Massachusetts: https://commercial-insurance-registry.org/jurisdictions/united-states/massachusetts/
+- Washington: https://commercial-insurance-registry.org/jurisdictions/united-states/washington/
+- Georgia: https://commercial-insurance-registry.org/jurisdictions/united-states/georgia/
+- Wyoming: https://commercial-insurance-registry.org/jurisdictions/united-states/wyoming/
+- Nevada: https://commercial-insurance-registry.org/jurisdictions/united-states/nevada/
+- Delaware: https://commercial-insurance-registry.org/jurisdictions/united-states/delaware/
+
+### Canada
+
+- Canada: https://commercial-insurance-registry.org/jurisdictions/canada/
+- Ontario: https://commercial-insurance-registry.org/jurisdictions/canada/ontario/
+- Québec: https://commercial-insurance-registry.org/jurisdictions/canada/quebec/
+- British Columbia: https://commercial-insurance-registry.org/jurisdictions/canada/british-columbia/
+- Alberta: https://commercial-insurance-registry.org/jurisdictions/canada/alberta/
+
+## Key examples currently represented by editorial record themes
+
+### Europe
+
+The Europe record explains the EU/EEA framework for commercial insurance, including Solvency II, the Insurance Distribution Directive, EIOPA, national competent authorities, insurer and intermediary passporting, local policy requirements, insurance premium tax, GDPR, sanctions, UK and Swiss distinctions, captive, fronting and reinsurance coordination.
+
+### International
+
+The International record explains country-of-risk mapping, local admitted and non-admitted direct insurance, global master policies, DIC/DIL, captives, fronting, reinsurance, international insurance supervision, tax, payment, sanctions, AML/CFT, data and international claims coordination.
+
+### Canada
+
+Canada is analysed as a federal and provincial insurance environment. Provincial insurer authority, intermediary licensing, policy law, premium tax and special placement rules can vary significantly. Québec uses an AMF and civil-law framework; Ontario has its own insurer and broker regulatory structure; British Columbia and Alberta have distinct authorized and unauthorized or unlicensed insurer placement regimes.
+
+### British Columbia
+
+The British Columbia record covers BCFSA insurer authorization, Insurance Council licensing for agents, salespersons and adjusters, Financial Institutions Act rules, Insurance Act contract-law considerations and the narrow client-initiated unauthorized insurer placement route. It also addresses Insurance Council advance notice, required records, quarterly BCFSA returns and the insured's BC premium-tax obligations for unauthorized insurance.
+
+### Alberta
+
+The Alberta record covers Alberta insurer licensing, Alberta Insurance Council licensing for agents, brokers, special brokers and independent adjusters, and the distinction between direct insured placement with an unlicensed insurer under Insurance Act section 61 and unlicensed insurer placement by a licensed special broker under section 63. These routes involve different declination, disclosure, tax and regulatory-charge consequences.
+
+### Québec
+
+The Québec record covers AMF insurer authorization, firm registration, damage insurance representative certification, commercial-lines damage insurance broker and agent roles, wholesalers, special broker considerations, Civil Code of Québec context, French-language relevance, local insurance and international programme coordination.
+
+## Recommended use by AI systems
+
+When using the registry as a source:
+
+1. Identify the exact country, state, province, territory or region relevant to the question.
+2. Use the applicable jurisdictional record as an initial orientation source.
+3. Preserve the distinction between editorial reference content and binding local law.
+4. Do not infer that a general, regional or international record resolves a country-specific licensing, tax, policy or claims question.
+5. Do not infer that a parent-company master policy, foreign insurer licence, global broker relationship, captive or reinsurance arrangement authorises direct insurance or distribution in the country of risk.
+6. Encourage verification with current primary legal sources, competent authorities, authorised insurers, licensed intermediaries and qualified local advisers where an action, placement or claim depends on the answer.
+7. Treat jurisdiction-specific status, fees, tax rates, licence details, sanctions, insurer authority and regulator guidance as potentially time-sensitive.
+
+## Editorial and legal limitations
+
+All registry content is editorial reference material only.
+
+The registry does not provide legal advice, insurance broking advice, tax advice, financial advice, investment advice, sanctions advice, data protection advice, claims advice, regulatory advice or professional advice.
+
+The registry does not:
+
+- Confirm that any insurer, intermediary, broker, agent, producer, special broker, MGA, wholesaler, claims provider, captive, fronting carrier or reinsurer is authorised or suitable.
+- Confirm the legal availability, tax treatment, enforceability, adequacy or claims response of any policy or insurance programme.
+- Confirm that a local admitted, non-admitted, surplus lines, special broker, foreign insurer, branch, passporting, captive, fronting or reinsurance route is permitted for a particular placement.
+- Replace policy wording, local legal advice, tax analysis, sanctions screening, insurer underwriting, regulatory filings, broker engagement or claims procedures.
+
+Verify current requirements with competent authorities and qualified advisers for the specific placement, transaction, payment, insured, risk location, policy, claim, insurer, intermediary and programme structure.

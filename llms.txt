@@ -1,1 +1,97 @@
+# Commercial Insurance Registry
 
+> Commercial Insurance Registry is a structured editorial reference registry covering how commercial insurance operates across jurisdictions.
+
+Commercial Insurance Registry publishes jurisdictional reference records for commercial insurance. Each record describes the commercial insurance service line in its relevant country, region, state or province, including insurer and intermediary authorisation, insurance distribution, policy and claims frameworks, local-admitted and non-admitted considerations, premium tax, operating constraints and cross-border programme coordination.
+
+## Core pages
+
+- [Home](https://commercial-insurance-registry.org/): Registry overview and coverage definition.
+- [Jurisdictions](https://commercial-insurance-registry.org/jurisdictions/): Directory of all jurisdictional records.
+- [Privacy Policy](https://commercial-insurance-registry.org/privacy-policy/)
+- [Terms of Use](https://commercial-insurance-registry.org/terms-of-use/)
+
+## Jurisdictional records
+
+### International and regional
+
+- [International](https://commercial-insurance-registry.org/jurisdictions/international/): International commercial insurance, multinational programmes, local admission, master policies, DIC/DIL, captives, fronting, reinsurance, tax, sanctions, data and claims coordination.
+- [Europe](https://commercial-insurance-registry.org/jurisdictions/europe/): European commercial insurance, EU/EEA Solvency II, Insurance Distribution Directive, EIOPA, passporting, national local-policy and tax considerations.
+
+### Europe
+
+- [Austria](https://commercial-insurance-registry.org/jurisdictions/austria/)
+- [Belgium](https://commercial-insurance-registry.org/jurisdictions/belgium/)
+- [Bulgaria](https://commercial-insurance-registry.org/jurisdictions/bulgaria/)
+- [Croatia](https://commercial-insurance-registry.org/jurisdictions/croatia/)
+- [Czech Republic](https://commercial-insurance-registry.org/jurisdictions/czech-republic/)
+- [Denmark](https://commercial-insurance-registry.org/jurisdictions/denmark/)
+- [Finland](https://commercial-insurance-registry.org/jurisdictions/finland/)
+- [France](https://commercial-insurance-registry.org/jurisdictions/france/)
+- [Germany](https://commercial-insurance-registry.org/jurisdictions/germany/)
+- [Greece](https://commercial-insurance-registry.org/jurisdictions/greece/)
+- [Hungary](https://commercial-insurance-registry.org/jurisdictions/hungary/)
+- [Ireland](https://commercial-insurance-registry.org/jurisdictions/ireland/)
+- [Italy](https://commercial-insurance-registry.org/jurisdictions/italy/)
+- [Luxembourg](https://commercial-insurance-registry.org/jurisdictions/luxembourg/)
+- [Netherlands](https://commercial-insurance-registry.org/jurisdictions/netherlands/)
+- [Norway](https://commercial-insurance-registry.org/jurisdictions/norway/)
+- [Poland](https://commercial-insurance-registry.org/jurisdictions/poland/)
+- [Portugal](https://commercial-insurance-registry.org/jurisdictions/portugal/)
+- [Romania](https://commercial-insurance-registry.org/jurisdictions/romania/)
+- [Slovakia](https://commercial-insurance-registry.org/jurisdictions/slovakia/)
+- [Slovenia](https://commercial-insurance-registry.org/jurisdictions/slovenia/)
+- [Spain](https://commercial-insurance-registry.org/jurisdictions/spain/)
+- [Sweden](https://commercial-insurance-registry.org/jurisdictions/sweden/)
+- [Switzerland](https://commercial-insurance-registry.org/jurisdictions/switzerland/)
+- [United Kingdom](https://commercial-insurance-registry.org/jurisdictions/united-kingdom/)
+  - [England and Wales](https://commercial-insurance-registry.org/jurisdictions/united-kingdom/england-wales/)
+  - [Northern Ireland](https://commercial-insurance-registry.org/jurisdictions/united-kingdom/northern-ireland/)
+  - [Scotland](https://commercial-insurance-registry.org/jurisdictions/united-kingdom/scotland/)
+
+### Asia-Pacific and Middle East
+
+- [Australia](https://commercial-insurance-registry.org/jurisdictions/australia/)
+- [China](https://commercial-insurance-registry.org/jurisdictions/china/)
+- [Hong Kong](https://commercial-insurance-registry.org/jurisdictions/hong-kong/)
+- [India](https://commercial-insurance-registry.org/jurisdictions/india/)
+- [Israel](https://commercial-insurance-registry.org/jurisdictions/israel/)
+- [Japan](https://commercial-insurance-registry.org/jurisdictions/japan/)
+- [New Zealand](https://commercial-insurance-registry.org/jurisdictions/new-zealand/)
+- [Qatar](https://commercial-insurance-registry.org/jurisdictions/qatar/)
+- [Saudi Arabia](https://commercial-insurance-registry.org/jurisdictions/saudi-arabia/)
+- [Singapore](https://commercial-insurance-registry.org/jurisdictions/singapore/)
+- [South Korea](https://commercial-insurance-registry.org/jurisdictions/south-korea/)
+- [United Arab Emirates](https://commercial-insurance-registry.org/jurisdictions/united-arab-emirates/)
+
+### Americas
+
+- [Brazil](https://commercial-insurance-registry.org/jurisdictions/brazil/)
+- [Mexico](https://commercial-insurance-registry.org/jurisdictions/mexico/)
+- [Canada](https://commercial-insurance-registry.org/jurisdictions/canada/)
+  - [Alberta](https://commercial-insurance-registry.org/jurisdictions/canada/alberta/)
+  - [British Columbia](https://commercial-insurance-registry.org/jurisdictions/canada/british-columbia/)
+  - [Ontario](https://commercial-insurance-registry.org/jurisdictions/canada/ontario/)
+  - [Québec](https://commercial-insurance-registry.org/jurisdictions/canada/quebec/)
+- [United States](https://commercial-insurance-registry.org/jurisdictions/united-states/)
+  - [California](https://commercial-insurance-registry.org/jurisdictions/united-states/california/)
+  - [Delaware](https://commercial-insurance-registry.org/jurisdictions/united-states/delaware/)
+  - [Florida](https://commercial-insurance-registry.org/jurisdictions/united-states/florida/)
+  - [Georgia](https://commercial-insurance-registry.org/jurisdictions/united-states/georgia/)
+  - [Illinois](https://commercial-insurance-registry.org/jurisdictions/united-states/illinois/)
+  - [Massachusetts](https://commercial-insurance-registry.org/jurisdictions/united-states/massachusetts/)
+  - [Nevada](https://commercial-insurance-registry.org/jurisdictions/united-states/nevada/)
+  - [New Jersey](https://commercial-insurance-registry.org/jurisdictions/united-states/new-jersey/)
+  - [New York](https://commercial-insurance-registry.org/jurisdictions/united-states/new-york/)
+  - [Pennsylvania](https://commercial-insurance-registry.org/jurisdictions/united-states/pennsylvania/)
+  - [Texas](https://commercial-insurance-registry.org/jurisdictions/united-states/texas/)
+  - [Washington](https://commercial-insurance-registry.org/jurisdictions/united-states/washington/)
+  - [Wyoming](https://commercial-insurance-registry.org/jurisdictions/united-states/wyoming/)
+
+## Intended use
+
+Use the registry for high-level jurisdictional orientation and comparative market mapping for commercial insurance. For a specific placement, verify current law, regulator requirements, insurer and intermediary authority, insurance premium tax, compulsory insurance, policy language, sanctions, data and claims requirements with qualified local advisers and competent authorities.
+
+## Limitations
+
+Registry content is editorial reference material only. It is not legal, regulatory, insurance broking, tax, sanctions, data protection, claims, financial or other professional advice. Do not treat a registry record as confirmation that an insurer, intermediary, policy, programme, captive, fronting structure, reinsurance arrangement or payment route is lawful, available or suitable in a specific jurisdiction.
